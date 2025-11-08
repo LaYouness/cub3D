@@ -27,9 +27,9 @@ int	leave(void *param)
 	exit(0);
 }
 
-int	main(int ac ,char **av)
+int main(int ac ,char **av)
 {
-	t_cub3d	data;
+	t_cub3d data;
 
 	if (ac != 1)
 		return (1);
